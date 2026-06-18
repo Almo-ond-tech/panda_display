@@ -153,10 +153,10 @@ void loop() {
     buttonState1 = digitalRead(buttonPin1);
       // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
     if (buttonState1 == HIGH) {
-      // turn LED on:
+      // turn on:
       sp.previous();
       } else {
-        // turn LED off:
+        // turn off:
       return sp.is_playing(); 
       }
     }
@@ -164,10 +164,10 @@ void loop() {
     buttonState2 = digitalRead(buttonPin2);
       // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
     if (buttonState2 == HIGH) {
-      // turn LED on:
+      // turn on:
       sp.start_resume_playback();
       } else {
-        // turn LED off:
+        // turn off:
       sp.start_resume_playback();
       }
     }
@@ -175,10 +175,10 @@ void loop() {
     buttonState3 = digitalRead(buttonPin3);
       // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
     if (buttonState3 == HIGH) {
-      // turn LED on:
+      // turn on:
       sp.skip();
       } else {
-        // turn LED off:
+        // turn off:
       return sp.is_playing(); 
       }
     }
