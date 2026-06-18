@@ -1,4 +1,5 @@
 # panda_display
+<img width="1168" height="694" alt="zine panda display" src="https://github.com/user-attachments/assets/e6cc18a1-6199-4086-a968-c7d79fc1e21b" />
 
 ## Description
 
