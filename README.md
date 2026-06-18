@@ -1,6 +1,4 @@
 # panda_display
-Contents
-  <a href='description'> Description </a>
 
 ## Description
 <div id='description'>
