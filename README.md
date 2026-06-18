@@ -13,7 +13,7 @@ I used a spotify library that's a wrapper for the Spotify Web API designed to wo
 To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch. Then fill this in the redirect uri:
 <img width="1465" height="206" alt="developer url" src="https://github.com/user-attachments/assets/d18e0748-230f-4b16-9c9f-5f5f57a93261" />
 
-Also replace the ssid and password of the wifi you're going to be using. If you don't know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected to the internet.
+Also replace the ssid and password to match the wifi you're going to be using. If you don't know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected to the internet.
 After logging in via the URL shown in the Serial Monitor, your ESP32 will print a refresh token.
 Copy this token and pass it as the third parameter to the constructor.
 Spotify sp(CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN);
