@@ -1,14 +1,16 @@
 # panda_display
 
 ## Description
-<div id='description'>
+
 A spotify display in the form of a red panda. You can see which song you're listening to, the album cover and the name of the artist on the display. Switch 1 goes to the previous song, switch 2 pauses the track and switch 3 skips the track you're currently listening to.
-</div>
+  
 ## Reason
 I made this project as a gift for my friend who loves listening to music on spotify. I thought it would look nice as a decoration in their room and because they love red panda. The case is a bit too big, but I think it's fine since it also serves as an aesthetic features. They also like 3d modeling stuff so that's why I intentionally didn't model the keycaaps so they could customise it themselves.
+
 ## How to use
 To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch.
 Also replace the ssid and password of the wifi you're going to be using. If you dont know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected.
+
 <img width="847" height="104" alt="change to use" src="https://github.com/user-attachments/assets/4a48199e-1ad9-475c-9363-07556b1bf2b8" />
 
 ## Disclaimer
