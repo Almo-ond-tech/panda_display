@@ -1,19 +1,19 @@
 # panda_display
 <img width="1168" height="694" alt="zine panda display" src="https://github.com/user-attachments/assets/e6cc18a1-6199-4086-a968-c7d79fc1e21b" />
 
-## Description
+# Description
 
 A spotify display in the form of a red pandas. You can see which song you're listening to, the album cover and the name of the artist on the display. Switch 1 goes to the previous song, switch 2 pauses the track and switch 3 skips the track you're currently listening to.
   
-## Reason
+# Reason
 I made this project as a gift for my friend who loves listening to music on spotify. I thought it would look nice as a decoration in their room and because they love red panda. The case is a bit too big, but I think it's fine since it also serves as an aesthetic features. They also like 3d modeling stuff so that's why I intentionally didn't model the keycaaps so they could customise it themselves.
 
-## How to use
+# How to use
 I used a spotify library that's a wrapper for the Spotify Web API designed to work with the ESP32 microcontroller from 
-<a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a>
-To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch. Then fill this in the redirect uri:
+<a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a> It also contains a more in depth tutorial on how to set it up.
+To start you should have a <b>spotify developer's account</b> and replace the <b>Client Id</b> and <b>Client Secret</b> with your own in the sketch. Then fill this in the redirect uri:
 <img width="1436" height="206" alt="developer uri" src="https://github.com/user-attachments/assets/eabfbc8f-ae6a-4914-8fd4-83cea02ba15c" />
-Enable the Web API option.
+Enable the <b> Web API </b> option.
 
 Also replace the ssid and password to match the wifi you're going to be using. If you don't know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected to the internet.
 After logging in via the URL shown in the Serial Monitor, your ESP32 will print a refresh token.
@@ -27,12 +27,12 @@ What I have now is currently untested so the firmware and the casing will defini
 
 
 <img width="1331" height="811" alt="better schematics" src="https://github.com/user-attachments/assets/1d7bdeee-0273-4521-acbf-f768c0f186be" />
-<h2><b>The blue crossed out pins on the display match the header pins in that exact order. Starting from pin 2 to pin 12</b></h2>
+<h3><b>The blue crossed out pins on the display match the header pins in that exact order. Starting from pin 2 to pin 12</b></h3>
 
 <img width="960" height="540" alt="panda_display pcb 3d front" src="https://github.com/user-attachments/assets/14451518-5742-4258-ba85-1649111ed5b2" />
 <img width="960" height="540" alt="panda_display pcb 3d back" src="https://github.com/user-attachments/assets/a4eb2b9d-032f-435d-b735-1e0c4db32b7b" />
 
-## How to attach
+# How to attach
 
 The components for the head, the tail and paws are meant to be glued together firmly because I'll print them separately to have different colors since I don't have a multi-color printer. Then that gets attached to the main body excluding the bottom. You can then place all the electrical stuff inside, do the wiring and close everything up with the bottom plate.
 
