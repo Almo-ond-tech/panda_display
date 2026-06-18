@@ -28,7 +28,7 @@ What I have now is currently untested so the firmware and the casing will defini
 
 ## How to attach
 
-The components for the head, the tail and paws are meant to be glued together firmly because I'll print them separately to have different colors since I don't have a multi-color printer. Then that gets attached to the main body excluding the bottom. You can then place all the electrical stuff inside and do the wiring and close everything up with the bottom plate.
+The components for the head, the tail and paws are meant to be glued together firmly because I'll print them separately to have different colors since I don't have a multi-color printer. Then that gets attached to the main body excluding the bottom. You can then place all the electrical stuff inside, do the wiring and close everything up with the bottom plate.
 
 <img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d" />
 <img width="1211" height="662" alt="pandaCase open_prettier" src="https://github.com/user-attachments/assets/47945d11-afb0-4ec4-8d61-b1c2972aaab2" />
