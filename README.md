@@ -9,10 +9,11 @@ A spotify display in the form of a red pandas. You can see which song you're lis
 I made this project as a gift for my friend who loves listening to music on spotify. I thought it would look nice as a decoration in their room and because they love red panda. The case is a bit too big, but I think it's fine since it also serves as an aesthetic features. They also like 3d modeling stuff so that's why I intentionally didn't model the keycaaps so they could customise it themselves.
 
 ## How to use
-I used a spotify library that's a wrapper for the Spotify Web API designed to work with the ESP32 microcontroller from <a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a>
+I used a spotify library that's a wrapper for the Spotify Web API designed to work with the ESP32 microcontroller from 
+<a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a>
 To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch. Then fill this in the redirect uri:
 <img width="1436" height="206" alt="developer uri" src="https://github.com/user-attachments/assets/eabfbc8f-ae6a-4914-8fd4-83cea02ba15c" />
-
+Enable the Web API option.
 
 Also replace the ssid and password to match the wifi you're going to be using. If you don't know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected to the internet.
 After logging in via the URL shown in the Serial Monitor, your ESP32 will print a refresh token.
