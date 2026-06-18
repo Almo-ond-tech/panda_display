@@ -10,10 +10,14 @@ I made this project as a gift for my friend who loves listening to music on spot
 
 ## How to use
 I used a spotify library that's a wrapper for the Spotify Web API designed to work with the ESP32 microcontroller from <a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a>
-To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch.
-Also replace the ssid and password of the wifi you're going to be using. If you dont know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected.
+To start you should have a spotify developer's account and replace the client id and client secret with your own in the sketch. Then fill this in the redirect uri:
+<img width="1465" height="206" alt="developer url" src="https://github.com/user-attachments/assets/d18e0748-230f-4b16-9c9f-5f5f57a93261" />
 
-<img width="847" height="104" alt="change to use" src="https://github.com/user-attachments/assets/4a48199e-1ad9-475c-9363-07556b1bf2b8" />
+Also replace the ssid and password of the wifi you're going to be using. If you don't know the ssid of your wifi network it will be printed in the serial monitor while the esp tries to connect to a nearby network. Then you can set the ssid and it will be connected to the internet.
+After logging in via the URL shown in the Serial Monitor, your ESP32 will print a refresh token.
+Copy this token and pass it as the third parameter to the constructor.
+Spotify sp(CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN);
+<img width="919" height="227" alt="plus_refresh_token" src="https://github.com/user-attachments/assets/1a89ca1e-6def-4e9d-9a6a-718914246ec9" />
 
 ## Disclaimer
 What I have now is currently untested so the firmware and the casing will definitely need some adjusting depending on how everything turns out
