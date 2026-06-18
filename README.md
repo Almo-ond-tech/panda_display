@@ -30,7 +30,7 @@ What I have now is currently untested so the firmware and the casing will defini
 
 The components for the head, the tail and paws are meant to be glued together firmly because I'll print them separately to have different colors since I don't have a multi-color printer. Then that gets attached to the main body excluding the bottom. You can then place all the electrical stuff inside, do the wiring and close everything up with the bottom plate.
 
-<a href='[https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4?renderMode=0&uiState=6a344f4de3c0149d96eb1961](https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4?renderMode=0&uiState=6a344fa2e3c0149d96eb1ae8)'> Onshape Link </a>
+<a href='https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4?renderMode=0&uiState=6a344fe3e3c0149d96eb1bad'> Onshape Link </a>
 
 <img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d" />
 <img width="1211" height="662" alt="pandaCase open_prettier" src="https://github.com/user-attachments/assets/47945d11-afb0-4ec4-8d61-b1c2972aaab2" />
