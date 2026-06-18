@@ -26,8 +26,7 @@ What I have now is currently untested so the firmware and the casing will defini
 <img width="960" height="540" alt="panda_display pcb 3d front" src="https://github.com/user-attachments/assets/14451518-5742-4258-ba85-1649111ed5b2" />
 <img width="960" height="540" alt="panda_display pcb 3d back" src="https://github.com/user-attachments/assets/a4eb2b9d-032f-435d-b735-1e0c4db32b7b" />
 
-
-<img width="1420" height="743" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/2654ffea-43e6-451f-9bce-8b5e083c5f5e" />
+ <img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d" />
 <img width="1211" height="662" alt="pandaCase open_prettier" src="https://github.com/user-attachments/assets/47945d11-afb0-4ec4-8d61-b1c2972aaab2" />
 <img width="1282" height="717" alt="pandaCase face_prettier" src="https://github.com/user-attachments/assets/6cdb5e7b-218f-4d1c-8cff-8acf32c00136" />
 <img width="1168" height="694" alt="pandaCase top_prettier" src="https://github.com/user-attachments/assets/d93dc7ee-be4e-4fe8-81bf-221229ace493" />
