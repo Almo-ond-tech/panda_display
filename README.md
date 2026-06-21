@@ -34,9 +34,9 @@ What I have now is currently untested so the firmware and the casing will defini
 
 # How to attach
 
-The components for the head, the tail and paws are meant to be glued together firmly because I'll print them separately to have different colors since I don't have a multi-color printer. Then that gets attached to the main body excluding the bottom. You can then place all the electrical stuff inside, do the wiring and close everything up with the bottom plate.
 
-<a href='https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4'> Onshape Link </a> Or else coppy paste in browser : [https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4]
+
+<a href='https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4'> Onshape Link </a> Or else copy paste in your browser : [https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4]
 
 <img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d" />
 <img width="1211" height="662" alt="pandaCase open_prettier" src="https://github.com/user-attachments/assets/47945d11-afb0-4ec4-8d61-b1c2972aaab2" />
@@ -59,7 +59,7 @@ The components for the head, the tail and paws are meant to be glued together fi
 | M3 screws (50 pcs)                                                                              | 3mm diameter pan head screws 6mm (4pcs)   | 1        | 0.0504         | 2.52        | https://nl.aliexpress.com/item/1005008709978631.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.454fftMBftMBpy&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=83f03170-c03f-4f9e-a1b3-7860960ec42c&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A83f03170-c03f-4f9e-a1b3-7860960ec42c%2Ctpp_buckets%3A668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2211679%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21EUR%211.96%211.80%21%21%2114.93%2113.73%21%400b884b5817817984658936804e0fbf%2112000046342342830%21rec%21NL%213328622363%21XZ%211%210%21n_tag%3A-29919%3Bd%3A9b918edc%3Bm03_new_user%3A-29895%3BpisId%3A5000000209393528&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008709978631%7C_p_origin_prod%3A | 2.52                       |
 | TOTAL                                                                                           |                                           |          |                | 35.12       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                            |
 
-<img width="1168" height="694" alt="full quote" src="https://github.com/user-attachments/assets/84bb487c-8dd6-464b-a7a5-643e5595b93e" />
+
 
 
 
