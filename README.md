@@ -8,7 +8,7 @@ A spotify display in the form of a red pandas. You can see which song you're lis
 # Reason
 I made this project as a gift for my friend who loves listening to music on spotify. I thought it would look nice as a decoration in their room and because they love red panda. The case is a bit too big, but I think it's fine since it also serves as an aesthetic features. They also like 3d modeling stuff so that's why I intentionally didn't model the keycaaps so they could customise it themselves.
 
-# How to use
+# Firmware Setup
 I used a spotify library that's a wrapper for the Spotify Web API designed to work with the ESP32 microcontroller from 
 <a href= 'https://github.com/FinianLandes/SpotifyEsp32#setup'> FinianLandes/SpotifyEsp32. </a> It also contains a more in depth tutorial on how to set it up.
 To start you should have a <b>spotify developer's account</b> and replace the <b>Client Id</b> and <b>Client Secret</b> with your own in the sketch. Then fill this in the redirect uri:
@@ -32,16 +32,28 @@ What I have now is currently untested so the firmware and the casing will defini
 <img width="960" height="540" alt="panda_display pcb 3d front" src="https://github.com/user-attachments/assets/14451518-5742-4258-ba85-1649111ed5b2" />
 <img width="960" height="540" alt="panda_display pcb 3d back" src="https://github.com/user-attachments/assets/a4eb2b9d-032f-435d-b735-1e0c4db32b7b" />
 
-# How to attach
-
-
+# Building the Case
 
 <a href='https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4'> Onshape Link </a> Or else copy paste in your browser : [https://cad.onshape.com/documents/bfc07541df551773d29ac83e/w/7fb00ae2864c3e517c62e19a/e/fd3725dd2f3859ce92e0f7f4]
 
-<img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d" />
-<img width="1211" height="662" alt="pandaCase open_prettier" src="https://github.com/user-attachments/assets/47945d11-afb0-4ec4-8d61-b1c2972aaab2" />
+<h4>Step 1:</h4> Glue all the componets for the Face and Tail indivudually after printing everything in your preferred colors with a strong adhesive. 
+For the Body glue all the parts together <b>excluding the bottom case</b>. <img width="836" height="735" alt="body_panda_display_NB" src="https://github.com/user-attachments/assets/2a7dfd2e-1459-49b5-baed-354de1f1f3cd" /> <br>
+ For the Face make sure to glue with the parts facing the right direction. <img width="851" height="689" alt="face_panda_display" src="https://github.com/user-attachments/assets/3b05389e-858e-4a82-9f9c-20b5621e5c9f" /> <br>
+ For the Tail make sure to glue the parts in the right order.<img width="1040" height="702" alt="tail_panda display" src="https://github.com/user-attachments/assets/37bc85f4-5c35-4d4c-8a6a-2f78cb848fad" />
+
+<h4>Step 2:</h4> Attach the full case together <b>Still excluding the bottom case</b>.<img width="1299" height="744" alt="pandaCase no componets_prettier" src="https://github.com/user-attachments/assets/270c8c48-6e64-4d75-a0c5-5bb084d0829d"/>
+
+
+<h4>Step 3:</h4> Fasten all the electrical pieces inside the Body.<img width="1139" height="721" alt="componets_red panda display" src="https://github.com/user-attachments/assets/ba25ff79-bb7b-4d31-97b4-fd0a4fe9b875" /> 
+
+<h4>Step 4:</h4> 
+Secure the bottom case in place and your Red Panda Display is now complete!
 <img width="1282" height="717" alt="pandaCase face_prettier" src="https://github.com/user-attachments/assets/6cdb5e7b-218f-4d1c-8cff-8acf32c00136" />
 <img width="1168" height="694" alt="pandaCase top_prettier" src="https://github.com/user-attachments/assets/d93dc7ee-be4e-4fe8-81bf-221229ace493" />
+
+
+
+
 
 ## BOM (Bill of Materials)
 [tablemagic_with_total.csv](https://github.com/user-attachments/files/29109595/tablemagic_with_total.csv)
